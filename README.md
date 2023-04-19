@@ -8,7 +8,6 @@ The application also includes additional features, such as the ability to record
 
 In summary, this project is a facial recognition application that uses machine learning technology to identify and verify a person's identity in real-time. With improved accuracy and a wide range of additional features, this application can be a useful tool for a variety of security and access control applications.
 
-
 # **Proyecto de reconocimiento facial**
 
 Este es un proyecto de aplicación de reconocimiento facial que utiliza tecnología de aprendizaje automático para identificar y verificar la identidad de una persona a partir de una imagen o un video. El objetivo principal del proyecto es desarrollar un sistema de reconocimiento facial preciso y rápido que pueda ser utilizado en una variedad de aplicaciones, incluyendo la seguridad de edificios, el control de acceso a dispositivos, la identificación de personas en eventos y mucho más.
@@ -18,3 +17,16 @@ Para lograr este objetivo, el proyecto utiliza una combinación de técnicas de 
 La aplicación también incluye características adicionales, como la capacidad de registrar y almacenar las identidades de las personas verificadas, la generación de informes de actividad y la integración con otros sistemas de seguridad.
 
 En resumen, este proyecto es una aplicación de reconocimiento facial que utiliza tecnología de aprendizaje automático para identificar y verificar la identidad de una persona en tiempo real. Con una precisión mejorada y una amplia gama de características adicionales, esta aplicación puede ser una herramienta útil para una variedad de aplicaciones de seguridad y control de acceso.
+
+
+# INSTRUCCIONES:
+
+> ### Instalando OpenCV:
+>
+> Direccion URL:
+>
+> https://pypi.org/project/opencv-contrib-python/
+>
+> Comando para instalar libreria:
+>
+> pip install opencv-contrib-python
